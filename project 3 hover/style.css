@@ -1,0 +1,74 @@
+.input1 {
+    width: 115px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid #FFD43A;
+    background-color: #FFD43A;
+    text-align: center;
+    margin-top: 27px;
+    margin-left: 35px;
+}
+.input2 {
+    width: 285px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid #000000;
+    background-color: #000000;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 14px;
+    margin-left: 35px;
+}
+.input3 {
+    width: 336px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid #B43AFF;
+    background-color: #B43AFF;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 14px;
+    margin-left: 35px;
+}
+.input4 {
+    width: 441px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid #E9E9E9;
+    background-color: #E9E9E9;
+    text-align: center;
+    color: #000000;
+    margin-top: 14px;
+    margin-left: 35px;
+}
+.input5 {
+    width: 559px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid #FFD43A;
+    background-color: #FFD43A;
+    text-align: center;
+    color: #000000; 
+    margin-top: 14px;
+    margin-left: 35px;
+}
+.input1:hover {
+    background-color: #8CFF98;
+}
+.input2:hover {
+    background-color: #D3D3D3;
+    color: #000000;
+}
+.input3:hover {
+    background-color: #FF3AE0;
+}
+.input4:hover {
+    background-color: #ABABAB;
+    border-radius: 2px;
+}
+.input5:hover {
+    background-color: #FFD43A;
+    width: 588px ;
+    height: 58px ;
+    border-radius: 30px;
+}
